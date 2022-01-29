@@ -1,0 +1,15 @@
+artifact_uri: file:///media/omkar/omkar/ineuron/regular/MLflow_demo/mlruns/0/d84baf20555045a9941ac0e6e4993af2/artifacts
+end_time: 1643465512050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d84baf20555045a9941ac0e6e4993af2
+run_uuid: d84baf20555045a9941ac0e6e4993af2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643465510401
+status: 3
+tags: []
+user_id: omkar
